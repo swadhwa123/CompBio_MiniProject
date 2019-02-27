@@ -9,3 +9,5 @@ SPAdes,
 bowtie,
 tophat, 
 cufflinks 
+
+This script should run automatically
